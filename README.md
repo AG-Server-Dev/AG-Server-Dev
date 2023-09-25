@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @AG-Server-Dev
+- 🌱 I cultivate the AG servers.
